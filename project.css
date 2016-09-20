@@ -1,0 +1,27 @@
+body{
+  background-color: #222222;
+  color: white;
+}
+.gr1{
+  background-color: red;
+
+}
+.gr2{
+  background-color: blue;
+
+}
+.gr3{
+  background-color: turquoise;
+}
+.gr4{
+  background-color: magenta;
+}
+.gr5{
+  background-color: purple;
+}
+.gr6{
+  background-color: deeppink;
+}
+.padded{
+  padding: 10px;
+}
